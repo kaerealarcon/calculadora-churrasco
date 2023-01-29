@@ -1,1 +1,2 @@
-# calculadora-churrasco
+# Calculadora para Churrasco
+Calculadora simples, onde é efetuado o calculo de carnes, refrigerantes e cerveja necessários para um churrasco, levando em conta o número de adultos, crianças e horas de duração.
